@@ -8,10 +8,11 @@ The result obtained does not open immediately in the Internet browser, but is di
 
 To encrypt the text and create a qr code, enter the text in the appropriate field, after generating the code, it can be saved in the device's memory in .png format or scanned to other devices.
 
+Play the Game Here ! : https://sweety-vigneshg.github.io/Basic-Car-Game/
+
 Key Features:
 - Scan through any available camera on device
 - Preview and edit the result
 - Encrypt text into a QR code
 - Save QR codes in the device memory
 
-Play the Game Here ! : https://sweety-vigneshg.github.io/Basic-Car-Game/
