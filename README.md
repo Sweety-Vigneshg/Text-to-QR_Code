@@ -12,5 +12,3 @@ Key Features:
 - Preview and edit the result
 - Encrypt text into a QR code
 - Save QR codes in the device memory
-
-For web browsers https://kirilllive.github.io/QR_master/
