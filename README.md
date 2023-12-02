@@ -14,4 +14,4 @@ Key Features:
 - Encrypt text into a QR code
 - Save QR codes in the device memory
 
-![ Play the Game Here ! ](https://sweety-vigneshg.github.io/Basic-Car-Game/)
+Play the Game Here ! : https://sweety-vigneshg.github.io/Basic-Car-Game/
