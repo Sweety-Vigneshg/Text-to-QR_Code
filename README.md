@@ -1,4 +1,5 @@
 # QR_master
+
 To scan, point the selected camera on a qr code or select a picture from your gallery.
 
 ![QR Master screens](screens.png)
@@ -12,3 +13,5 @@ Key Features:
 - Preview and edit the result
 - Encrypt text into a QR code
 - Save QR codes in the device memory
+
+![ Play the Game Here ! ](https://sweety-vigneshg.github.io/Basic-Car-Game/)
